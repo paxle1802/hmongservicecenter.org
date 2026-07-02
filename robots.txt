@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hmongservicecenter.org/sitemap.xml
